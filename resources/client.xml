@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<metas xmlns="fr:inpi:odrncs:actepdf">
+    <cin>1998D00115</cin>
+    <id_unique>418429403</id_unique>
+    <nom>Test SF</nom>
+    <code_compta>7202</code_compta>
+    <date_depot>20090414</date_depot>
+    <decisions>
+        <type_et_decision>
+            <type_acte>Procès-verbal</type_acte>
+            <decision>Nomination</decision>
+        </type_et_decision>
+        <type_et_decision>
+            <type_acte>Procès-verbal</type_acte>
+            <decision>Document mis à jour</decision>
+        </type_et_decision>
+    </decisions>
+</metas>

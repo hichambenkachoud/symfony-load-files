@@ -1,0 +1,17 @@
+{
+  "cin":"1998D5",
+  "id_unique":418429403,
+  "nom":"Test SF",
+  "code_compta":7202,
+  "date_depot":20090414,
+  "decisions":[
+    {
+      "type_acte":"Procès-verbal",
+      "decision":"Nomination"
+    },
+    {
+      "type_acte":"Procès-verbal",
+      "decision":"Document mis à jour"
+    }
+  ]
+}
